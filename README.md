@@ -44,6 +44,7 @@ Here's a breakdown of the steps I followed:
  a) Cleaning:
    Removed duplicate values.
    Handled missing values.
+   
  b) Preprocessing:
    Checked data types for accuracy.
    Created necessary calculated fields.
