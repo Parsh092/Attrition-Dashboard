@@ -44,10 +44,10 @@ Here's a breakdown of the steps I followed:
  a) Cleaning:
    Removed duplicate values.
    Handled missing values.
-   
  b) Preprocessing:
    Checked data types for accuracy.
    Created necessary calculated fields.
+   
 3. Power BI Report:
    Designed and built an interactive dashboard with visualizations for each data point.
    Used filters and slicers for detailed analysis.
