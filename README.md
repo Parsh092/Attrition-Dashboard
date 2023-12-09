@@ -40,7 +40,7 @@ Improve employee engagement and satisfaction.
 
 Here's a breakdown of the steps I followed:
 1. Get Data: Downloaded and imported the relevant employee data.
-2.Transform Data:
+2. Transform Data:
  a) Cleaning:
    Removed duplicate values.
    Handled missing values.
